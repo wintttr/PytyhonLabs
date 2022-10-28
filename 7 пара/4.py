@@ -1,0 +1,1 @@
+print("".join(reversed(open("input4.txt").readlines())))
