@@ -1,3 +1,3 @@
 # Лабы по питону
 
-![ezgif-3-a7f7b08f6a](https://user-images.githubusercontent.com/85644131/198576564-49da2364-b984-4336-9060-75df1c3d6738.gif)
+![f396a9ce-452f-4947-bb17-62b717eeeae2](https://user-images.githubusercontent.com/85644131/198576960-29c7610a-6da3-499c-8ed4-93102d46b6d1.gif)
